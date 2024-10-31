@@ -1,1 +1,1 @@
-# This is a simple snake game built with turtle module.
+# This is a simple snake game built using turtle library.
